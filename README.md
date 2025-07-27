@@ -16,7 +16,7 @@ These projects reflect real-world usage of core AWS services and serve as a pers
 
 > 📌 *Click each service to view individual hands-on projects inside.*
 
-- [DynamoDB](DynamoDB/)
+- [Databases](Databases/)
 
 *(More projects will be added continuously as I document the rest of the labs.)*
 
