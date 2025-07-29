@@ -39,7 +39,7 @@ As part of my AWS Solutions Architect Associate course in April, I built and tes
 ## 📁 Files Included
 
 - *No code files – all steps performed via AWS Console and MySQL Workbench*  
-- [Screenshots](screenshots/) – optional visual proof of cross-region replication and promotion  
+- [Screenshots](Screenshots/) – optional visual proof of cross-region replication and promotion  
 
 ---
 
