@@ -18,6 +18,7 @@ These projects reflect real-world usage of core AWS services and serve as a pers
 
 - [Databases](Databases/)
 - [DNS_Caching](DNS_Caching/)
+- [EC2](EC2/)
 
 *(More projects will be added continuously as I document the rest of the labs.)*
 
