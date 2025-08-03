@@ -66,15 +66,16 @@ This project demonstrates how to build a **high-availability, cross-region failo
 
 ## 🖼️ Screenshots
 
-- [CloudFormation stack created in `eu-north-1`](Screenshots/1 - stack created in primary region.png)
-- [CloudFormation stack created in `eu-central-1`](Screenshots/2 - stack created in secondary region.png)
-- [Route 53 hosted zone with failover A records](Screenshots/3 - Records in hosted zone for failover.png)
-- [Route 53 health checks linked to primary and secondary ALBs](Screenshots/4 - Health checks.png)
-- [Website response served from AZ `eu-north-1a`](Screenshots/5 - Primary eu-north-1a.png)
-- [Website response served from AZ `eu-north-1c`](Screenshots/6 - Primary eu-north-1c.png)
-- [Simulated failure: primary ALB marked unhealthy](Screenshots/7 - testing failure and primary is unhealthy.png)
-- [Website response rerouted to AZ `eu-central-1c`](Screenshots/8 - secondary eu-central-1c.png)
-- [Website response rerouted to AZ `eu-central-1a`](Screenshots/9 - secondary eu-central-1a.png)
+- [CloudFormation stack created in `eu-north-1`](Screenshots/1%20-%20stack%20created%20in%20primary%20region.png)
+- [CloudFormation stack created in `eu-central-1`](Screenshots/2%20-%20stack%20created%20in%20secondary%20region.png)
+- [Route 53 hosted zone with failover A records](Screenshots/3%20-%20Records%20in%20hosted%20zone%20for%20failover.png)
+- [Route 53 health checks linked to primary and secondary ALBs](Screenshots/4%20-%20Health%20checks.png)
+- [Website response served from AZ `eu-north-1a`](Screenshots/5%20-%20Primary%20eu-north-1a.png)
+- [Website response served from AZ `eu-north-1c`](Screenshots/6%20-%20Primary%20eu-north-1c.png)
+- [Simulated failure: primary ALB marked unhealthy](Screenshots/7%20-%20testing%20failure%20and%20primary%20is%20unhealthy.png)
+- [Website response rerouted to AZ `eu-central-1c`](Screenshots/8%20-%20secondary%20eu-central-1c.png)
+- [Website response rerouted to AZ `eu-central-1a`](Screenshots/9%20-%20secondary%20eu-central-1a.png)
+
 
 ---
 
