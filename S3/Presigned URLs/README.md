@@ -32,8 +32,8 @@ This hands-on lab demonstrates how to securely access a private S3 object **with
 
 ## Screenshots
 
-[Presigned URL generation](Screenshots/presigned_url_generation.png)
-[Website access via presigned URL](Screenshots/Website_access_via_presigned_url.png)
+- [Presigned URL generation](Screenshots/presigned_url_generation.png)
+- [Website access via presigned URL](Screenshots/Website_access_via_presigned_url.png)
 
 
 ## Key Learning
