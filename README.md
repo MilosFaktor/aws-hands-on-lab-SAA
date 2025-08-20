@@ -1,6 +1,6 @@
 # 🚀 AWS Hands-On Lab Repository – SAA Certification Track
 
-This repository contains a curated collection of my **hands-on AWS projects** built as part of the **AWS Solutions Architect Associate** course I completed in **April 2025**.
+This repository contains a curated collection of my **hands-on AWS projects** built as part of the **AWS Solutions Architect Associate** course from **Neal Davis** that I completed in **April 2025**.
 
 Each project folder includes:
 - A step-by-step walkthrough (`README.md`)
